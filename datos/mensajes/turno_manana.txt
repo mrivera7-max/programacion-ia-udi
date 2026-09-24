@@ -1,0 +1,10 @@
+URGENTE: el osciloscopio del laboratorio 3 genera chispas al encender
+Falla crítica en la fuente de alimentación, huele a quemado
+El servidor de simulación está caído y no responde
+Por favor revisar el multímetro 12, marca lecturas inestables
+Se requiere actualizar MATLAB en las estaciones del aula 204
+Gracias por el apoyo en la práctica de ayer
+Recordatorio: reunión de docentes el viernes
+El generador de funciones presenta un error intermitente
+Cortocircuito en la protoboard de la mesa 5, riesgo eléctrico
+Solicito préstamo de cables banana para el martes

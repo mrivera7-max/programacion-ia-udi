@@ -1,0 +1,10 @@
+Error al compilar el firmware del microcontrolador
+Pendiente revisar el inventario de resistencias
+Sensor de humo activado en la bodega de equipos
+El software de licencias está lento pero funciona
+Saludo cordial y agradecimiento por la capacitación
+Acceso no autorizado detectado en el servidor del laboratorio
+Solicitud de mantenimiento preventivo para las fuentes DC
+Duda sobre el formato del informe de laboratorio
+Cable de alimentación pelado en la mesa 2, peligro
+Actualización del sistema operativo programada para el sábado

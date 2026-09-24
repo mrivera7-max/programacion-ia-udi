@@ -1,0 +1,30 @@
+
+======================================================================
+1) Equivalencia POO vs. script original (referencia: CSV original)
+======================================================================
+  .csv   OK  (470, 6)  (idéntico a la línea base)
+  .json  OK  (470, 6)  (idéntico a la línea base)
+  .txt   OK  (470, 6)  (idéntico a la línea base)
+  .xlsx  OK  (470, 6)  (idéntico a la línea base)
+
+======================================================================
+2) Auditoría de la sugerencia inicial de la IA
+======================================================================
+  formato   filas  nulos  tipo timestamp   ¿igual a base?
+  .csv        470      0  str              sí
+  .json       480     10  datetime64[us]   NO
+  .txt        470      0  str              sí
+  .xlsx       470      0  str              sí
+Error: [Errno 2] No such file or directory: 'no_existe.csv'
+  Archivo inexistente -> la IA devuelve DataFrame vacío de forma silenciosa: shape=(0, 0)
+  Versión corregida -> lanza ErrorCargaDatos: No existe el archivo: no_existe.csv
+
+======================================================================
+3) Eficiencia con 200 000 filas (mejor de 3 ejecuciones)
+======================================================================
+  Estructurado: 0.760 s | POO: 0.575 s | relación POO/estructurado = 0.76
+
+======================================================================
+4) Extensibilidad: nuevo formato .psv (separado por '|') sin editar el módulo
+======================================================================
+  CargadorPSV registrado -> (470, 6) OK

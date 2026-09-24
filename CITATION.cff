@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Taller Fase I – Programación con IA: POO, decoradores y patrones de diseño"
+message: "Si utiliza este material, por favor cítelo como se indica."
+authors:
+  - family-names: Rivera Sanclemente
+    given-names: María Fernanda
+    affiliation: Universidad de Investigación y Desarrollo (UDI)
+date-released: 2026-09-24
+license: MIT

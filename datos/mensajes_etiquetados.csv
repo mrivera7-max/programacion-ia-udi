@@ -1,0 +1,31 @@
+archivo,mensaje,prioridad_real
+turno_manana.txt,URGENTE: el osciloscopio del laboratorio 3 genera chispas al encender,alta
+turno_manana.txt,"Falla crítica en la fuente de alimentación, huele a quemado",alta
+turno_manana.txt,El servidor de simulación está caído y no responde,alta
+turno_manana.txt,"Por favor revisar el multímetro 12, marca lecturas inestables",media
+turno_manana.txt,Se requiere actualizar MATLAB en las estaciones del aula 204,media
+turno_manana.txt,Gracias por el apoyo en la práctica de ayer,baja
+turno_manana.txt,Recordatorio: reunión de docentes el viernes,baja
+turno_manana.txt,El generador de funciones presenta un error intermitente,media
+turno_manana.txt,"Cortocircuito en la protoboard de la mesa 5, riesgo eléctrico",alta
+turno_manana.txt,Solicito préstamo de cables banana para el martes,baja
+turno_tarde.txt,"Incendio pequeño controlado en el laboratorio, revisar extintores de inmediato",alta
+turno_tarde.txt,La impresora 3D tiene un retraso en la cola de impresión,media
+turno_tarde.txt,Consulta: ¿hay kits de Arduino disponibles?,baja
+turno_tarde.txt,"Pérdida de datos en el servidor de prácticas, backup falló",alta
+turno_tarde.txt,El proyector del aula 101 no enciende,media
+turno_tarde.txt,Felicitaciones al semillero por el póster,baja
+turno_tarde.txt,"Revisar la conexión de red del laboratorio de comunicaciones, está lenta",media
+turno_tarde.txt,Descarga eléctrica leve al tocar el chasis del equipo 7,alta
+turno_tarde.txt,Informativo: nuevo horario de monitorías publicado,baja
+turno_tarde.txt,Advertencia: batería del UPS al 10 %,alta
+turno_noche.txt,Error al compilar el firmware del microcontrolador,media
+turno_noche.txt,Pendiente revisar el inventario de resistencias,baja
+turno_noche.txt,Sensor de humo activado en la bodega de equipos,alta
+turno_noche.txt,El software de licencias está lento pero funciona,media
+turno_noche.txt,Saludo cordial y agradecimiento por la capacitación,baja
+turno_noche.txt,Acceso no autorizado detectado en el servidor del laboratorio,alta
+turno_noche.txt,Solicitud de mantenimiento preventivo para las fuentes DC,media
+turno_noche.txt,Duda sobre el formato del informe de laboratorio,baja
+turno_noche.txt,"Cable de alimentación pelado en la mesa 2, peligro",alta
+turno_noche.txt,Actualización del sistema operativo programada para el sábado,baja

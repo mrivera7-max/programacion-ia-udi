@@ -1,0 +1,4082 @@
+[
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:00:00",
+  "temperatura_c":34.53,
+  "voltaje_v":5.178,
+  "corriente_ma":100.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:01:00",
+  "temperatura_c":26.21,
+  "voltaje_v":4.847,
+  "corriente_ma":153.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:02:00",
+  "temperatura_c":27.66,
+  "voltaje_v":4.721,
+  "corriente_ma":109.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:03:00",
+  "temperatura_c":45.65,
+  "voltaje_v":5.015,
+  "corriente_ma":140.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:04:00",
+  "temperatura_c":null,
+  "voltaje_v":5.14,
+  "corriente_ma":121.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:05:00",
+  "temperatura_c":29.52,
+  "voltaje_v":5.27,
+  "corriente_ma":111.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:06:00",
+  "temperatura_c":44.18,
+  "voltaje_v":5.077,
+  "corriente_ma":83.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:07:00",
+  "temperatura_c":49.53,
+  "voltaje_v":4.944,
+  "corriente_ma":116.6,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:08:00",
+  "temperatura_c":29.14,
+  "voltaje_v":4.866,
+  "corriente_ma":88.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:09:00",
+  "temperatura_c":33.16,
+  "voltaje_v":5.002,
+  "corriente_ma":139.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:10:00",
+  "temperatura_c":36.71,
+  "voltaje_v":4.955,
+  "corriente_ma":150.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:11:00",
+  "temperatura_c":43.64,
+  "voltaje_v":4.848,
+  "corriente_ma":104.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:12:00",
+  "temperatura_c":30.07,
+  "voltaje_v":5.307,
+  "corriente_ma":126.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:13:00",
+  "temperatura_c":33.77,
+  "voltaje_v":5.268,
+  "corriente_ma":105.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:14:00",
+  "temperatura_c":38.89,
+  "voltaje_v":5.17,
+  "corriente_ma":107.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:15:00",
+  "temperatura_c":37.17,
+  "voltaje_v":4.862,
+  "corriente_ma":135.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:16:00",
+  "temperatura_c":33.12,
+  "voltaje_v":5.128,
+  "corriente_ma":119.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:17:00",
+  "temperatura_c":34.33,
+  "voltaje_v":5.096,
+  "corriente_ma":154.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:18:00",
+  "temperatura_c":28.13,
+  "voltaje_v":5.066,
+  "corriente_ma":110.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:19:00",
+  "temperatura_c":33.81,
+  "voltaje_v":5.187,
+  "corriente_ma":140.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:20:00",
+  "temperatura_c":33.67,
+  "voltaje_v":5.095,
+  "corriente_ma":121.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:21:00",
+  "temperatura_c":36.16,
+  "voltaje_v":5.111,
+  "corriente_ma":135.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:22:00",
+  "temperatura_c":32.22,
+  "voltaje_v":5.096,
+  "corriente_ma":111.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:23:00",
+  "temperatura_c":37.36,
+  "voltaje_v":5.051,
+  "corriente_ma":119.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:24:00",
+  "temperatura_c":40.06,
+  "voltaje_v":4.732,
+  "corriente_ma":117.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:25:00",
+  "temperatura_c":35.78,
+  "voltaje_v":5.013,
+  "corriente_ma":103.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:26:00",
+  "temperatura_c":36.76,
+  "voltaje_v":4.917,
+  "corriente_ma":133.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:27:00",
+  "temperatura_c":35.27,
+  "voltaje_v":4.808,
+  "corriente_ma":133.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:28:00",
+  "temperatura_c":35.0,
+  "voltaje_v":5.252,
+  "corriente_ma":131.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:29:00",
+  "temperatura_c":31.39,
+  "voltaje_v":5.259,
+  "corriente_ma":150.7,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:30:00",
+  "temperatura_c":36.58,
+  "voltaje_v":"N\/A",
+  "corriente_ma":149.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:31:00",
+  "temperatura_c":34.51,
+  "voltaje_v":5.038,
+  "corriente_ma":112.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:32:00",
+  "temperatura_c":45.47,
+  "voltaje_v":5.203,
+  "corriente_ma":127.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:33:00",
+  "temperatura_c":42.87,
+  "voltaje_v":5.002,
+  "corriente_ma":107.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:34:00",
+  "temperatura_c":36.93,
+  "voltaje_v":5.03,
+  "corriente_ma":120.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:35:00",
+  "temperatura_c":999.0,
+  "voltaje_v":4.836,
+  "corriente_ma":108.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:36:00",
+  "temperatura_c":29.44,
+  "voltaje_v":5.06,
+  "corriente_ma":152.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:37:00",
+  "temperatura_c":40.96,
+  "voltaje_v":5.009,
+  "corriente_ma":127.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:38:00",
+  "temperatura_c":36.31,
+  "voltaje_v":4.805,
+  "corriente_ma":115.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:39:00",
+  "temperatura_c":null,
+  "voltaje_v":4.992,
+  "corriente_ma":143.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:40:00",
+  "temperatura_c":26.28,
+  "voltaje_v":4.988,
+  "corriente_ma":76.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:41:00",
+  "temperatura_c":39.64,
+  "voltaje_v":5.27,
+  "corriente_ma":79.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:42:00",
+  "temperatura_c":37.27,
+  "voltaje_v":5.134,
+  "corriente_ma":135.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:43:00",
+  "temperatura_c":29.45,
+  "voltaje_v":5.002,
+  "corriente_ma":121.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:44:00",
+  "temperatura_c":32.64,
+  "voltaje_v":5.037,
+  "corriente_ma":125.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:45:00",
+  "temperatura_c":36.32,
+  "voltaje_v":5.007,
+  "corriente_ma":93.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:46:00",
+  "temperatura_c":35.26,
+  "voltaje_v":4.97,
+  "corriente_ma":119.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:47:00",
+  "temperatura_c":33.54,
+  "voltaje_v":4.838,
+  "corriente_ma":160.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:48:00",
+  "temperatura_c":34.48,
+  "voltaje_v":4.977,
+  "corriente_ma":136.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:49:00",
+  "temperatura_c":33.74,
+  "voltaje_v":4.888,
+  "corriente_ma":123.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 00:50:00",
+  "temperatura_c":35.76,
+  "voltaje_v":4.812,
+  "corriente_ma":111.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:51:00",
+  "temperatura_c":42.36,
+  "voltaje_v":5.077,
+  "corriente_ma":112.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:52:00",
+  "temperatura_c":22.17,
+  "voltaje_v":5.059,
+  "corriente_ma":77.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:53:00",
+  "temperatura_c":33.82,
+  "voltaje_v":4.732,
+  "corriente_ma":125.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 00:54:00",
+  "temperatura_c":35.88,
+  "voltaje_v":4.982,
+  "corriente_ma":136.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:55:00",
+  "temperatura_c":36.48,
+  "voltaje_v":5.149,
+  "corriente_ma":88.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:56:00",
+  "temperatura_c":33.14,
+  "voltaje_v":5.159,
+  "corriente_ma":106.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 00:57:00",
+  "temperatura_c":26.22,
+  "voltaje_v":5.154,
+  "corriente_ma":96.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:58:00",
+  "temperatura_c":36.64,
+  "voltaje_v":5.006,
+  "corriente_ma":100.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 00:59:00",
+  "temperatura_c":43.64,
+  "voltaje_v":4.873,
+  "corriente_ma":121.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:00:00",
+  "temperatura_c":27.33,
+  "voltaje_v":4.837,
+  "corriente_ma":78.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:01:00",
+  "temperatura_c":39.32,
+  "voltaje_v":5.052,
+  "corriente_ma":132.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:02:00",
+  "temperatura_c":33.36,
+  "voltaje_v":5.057,
+  "corriente_ma":135.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:03:00",
+  "temperatura_c":34.69,
+  "voltaje_v":5.193,
+  "corriente_ma":115.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:04:00",
+  "temperatura_c":29.74,
+  "voltaje_v":5.165,
+  "corriente_ma":70.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:05:00",
+  "temperatura_c":33.33,
+  "voltaje_v":4.98,
+  "corriente_ma":100.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:06:00",
+  "temperatura_c":41.5,
+  "voltaje_v":4.813,
+  "corriente_ma":144.7,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:07:00",
+  "temperatura_c":37.91,
+  "voltaje_v":4.952,
+  "corriente_ma":64.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:08:00",
+  "temperatura_c":43.66,
+  "voltaje_v":5.033,
+  "corriente_ma":113.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:09:00",
+  "temperatura_c":40.89,
+  "voltaje_v":4.97,
+  "corriente_ma":96.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:10:00",
+  "temperatura_c":37.2,
+  "voltaje_v":4.913,
+  "corriente_ma":136.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:11:00",
+  "temperatura_c":43.72,
+  "voltaje_v":5.038,
+  "corriente_ma":106.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:12:00",
+  "temperatura_c":37.19,
+  "voltaje_v":4.924,
+  "corriente_ma":128.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:13:00",
+  "temperatura_c":39.14,
+  "voltaje_v":4.906,
+  "corriente_ma":131.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:14:00",
+  "temperatura_c":33.52,
+  "voltaje_v":5.047,
+  "corriente_ma":156.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:15:00",
+  "temperatura_c":35.33,
+  "voltaje_v":4.94,
+  "corriente_ma":115.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:16:00",
+  "temperatura_c":31.51,
+  "voltaje_v":5.037,
+  "corriente_ma":127.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:17:00",
+  "temperatura_c":39.95,
+  "voltaje_v":5.041,
+  "corriente_ma":90.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:18:00",
+  "temperatura_c":29.11,
+  "voltaje_v":4.829,
+  "corriente_ma":143.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:19:00",
+  "temperatura_c":38.91,
+  "voltaje_v":4.928,
+  "corriente_ma":104.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:20:00",
+  "temperatura_c":34.05,
+  "voltaje_v":5.216,
+  "corriente_ma":108.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:21:00",
+  "temperatura_c":40.86,
+  "voltaje_v":4.826,
+  "corriente_ma":119.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:22:00",
+  "temperatura_c":38.75,
+  "voltaje_v":4.683,
+  "corriente_ma":88.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:23:00",
+  "temperatura_c":44.1,
+  "voltaje_v":4.721,
+  "corriente_ma":124.6,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:24:00",
+  "temperatura_c":38.65,
+  "voltaje_v":5.004,
+  "corriente_ma":139.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:25:00",
+  "temperatura_c":27.14,
+  "voltaje_v":5.005,
+  "corriente_ma":125.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:26:00",
+  "temperatura_c":34.67,
+  "voltaje_v":4.982,
+  "corriente_ma":88.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:27:00",
+  "temperatura_c":29.14,
+  "voltaje_v":5.182,
+  "corriente_ma":117.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:28:00",
+  "temperatura_c":32.41,
+  "voltaje_v":4.599,
+  "corriente_ma":134.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:29:00",
+  "temperatura_c":42.56,
+  "voltaje_v":5.059,
+  "corriente_ma":82.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:30:00",
+  "temperatura_c":38.19,
+  "voltaje_v":5.234,
+  "corriente_ma":98.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:31:00",
+  "temperatura_c":31.51,
+  "voltaje_v":4.831,
+  "corriente_ma":137.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:32:00",
+  "temperatura_c":29.93,
+  "voltaje_v":4.943,
+  "corriente_ma":125.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:33:00",
+  "temperatura_c":35.16,
+  "voltaje_v":4.887,
+  "corriente_ma":128.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:34:00",
+  "temperatura_c":28.92,
+  "voltaje_v":4.866,
+  "corriente_ma":157.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:35:00",
+  "temperatura_c":31.64,
+  "voltaje_v":4.951,
+  "corriente_ma":129.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:36:00",
+  "temperatura_c":36.56,
+  "voltaje_v":5.214,
+  "corriente_ma":133.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:37:00",
+  "temperatura_c":40.78,
+  "voltaje_v":5.276,
+  "corriente_ma":174.2,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:38:00",
+  "temperatura_c":38.04,
+  "voltaje_v":4.95,
+  "corriente_ma":115.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:39:00",
+  "temperatura_c":23.54,
+  "voltaje_v":5.286,
+  "corriente_ma":104.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:40:00",
+  "temperatura_c":999.0,
+  "voltaje_v":5.005,
+  "corriente_ma":128.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:41:00",
+  "temperatura_c":35.36,
+  "voltaje_v":5.263,
+  "corriente_ma":128.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:42:00",
+  "temperatura_c":37.07,
+  "voltaje_v":4.986,
+  "corriente_ma":109.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:43:00",
+  "temperatura_c":43.08,
+  "voltaje_v":5.02,
+  "corriente_ma":99.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:44:00",
+  "temperatura_c":24.68,
+  "voltaje_v":5.055,
+  "corriente_ma":166.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:45:00",
+  "temperatura_c":32.04,
+  "voltaje_v":5.477,
+  "corriente_ma":126.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:46:00",
+  "temperatura_c":37.95,
+  "voltaje_v":5.128,
+  "corriente_ma":105.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:47:00",
+  "temperatura_c":null,
+  "voltaje_v":4.894,
+  "corriente_ma":138.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:48:00",
+  "temperatura_c":42.38,
+  "voltaje_v":5.145,
+  "corriente_ma":117.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:49:00",
+  "temperatura_c":36.84,
+  "voltaje_v":4.946,
+  "corriente_ma":114.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:50:00",
+  "temperatura_c":39.23,
+  "voltaje_v":4.927,
+  "corriente_ma":131.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:51:00",
+  "temperatura_c":32.15,
+  "voltaje_v":"5,136",
+  "corriente_ma":94.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:52:00",
+  "temperatura_c":39.07,
+  "voltaje_v":5.005,
+  "corriente_ma":127.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 01:53:00",
+  "temperatura_c":40.34,
+  "voltaje_v":5.042,
+  "corriente_ma":158.3,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:54:00",
+  "temperatura_c":36.16,
+  "voltaje_v":5.002,
+  "corriente_ma":129.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 01:55:00",
+  "temperatura_c":36.17,
+  "voltaje_v":5.05,
+  "corriente_ma":112.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:56:00",
+  "temperatura_c":36.35,
+  "voltaje_v":5.064,
+  "corriente_ma":109.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:57:00",
+  "temperatura_c":30.68,
+  "voltaje_v":4.709,
+  "corriente_ma":111.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:58:00",
+  "temperatura_c":34.26,
+  "voltaje_v":5.1,
+  "corriente_ma":114.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:59:00",
+  "temperatura_c":34.24,
+  "voltaje_v":4.853,
+  "corriente_ma":112.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:00:00",
+  "temperatura_c":36.92,
+  "voltaje_v":4.784,
+  "corriente_ma":138.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:01:00",
+  "temperatura_c":40.0,
+  "voltaje_v":4.991,
+  "corriente_ma":85.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:02:00",
+  "temperatura_c":29.71,
+  "voltaje_v":5.013,
+  "corriente_ma":137.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:03:00",
+  "temperatura_c":34.37,
+  "voltaje_v":4.896,
+  "corriente_ma":112.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:04:00",
+  "temperatura_c":42.41,
+  "voltaje_v":5.125,
+  "corriente_ma":127.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:05:00",
+  "temperatura_c":31.28,
+  "voltaje_v":4.799,
+  "corriente_ma":97.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:06:00",
+  "temperatura_c":30.89,
+  "voltaje_v":4.939,
+  "corriente_ma":146.6,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:07:00",
+  "temperatura_c":36.01,
+  "voltaje_v":4.912,
+  "corriente_ma":144.9,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:08:00",
+  "temperatura_c":39.22,
+  "voltaje_v":4.993,
+  "corriente_ma":139.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:09:00",
+  "temperatura_c":35.06,
+  "voltaje_v":5.042,
+  "corriente_ma":89.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:10:00",
+  "temperatura_c":41.64,
+  "voltaje_v":4.849,
+  "corriente_ma":136.6,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:11:00",
+  "temperatura_c":39.28,
+  "voltaje_v":5.109,
+  "corriente_ma":128.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:12:00",
+  "temperatura_c":39.21,
+  "voltaje_v":5.009,
+  "corriente_ma":87.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:13:00",
+  "temperatura_c":37.77,
+  "voltaje_v":4.716,
+  "corriente_ma":119.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:14:00",
+  "temperatura_c":46.64,
+  "voltaje_v":4.706,
+  "corriente_ma":127.3,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:15:00",
+  "temperatura_c":33.97,
+  "voltaje_v":4.998,
+  "corriente_ma":131.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:16:00",
+  "temperatura_c":24.98,
+  "voltaje_v":4.967,
+  "corriente_ma":123.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:17:00",
+  "temperatura_c":43.02,
+  "voltaje_v":4.984,
+  "corriente_ma":125.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:18:00",
+  "temperatura_c":32.71,
+  "voltaje_v":4.996,
+  "corriente_ma":149.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:19:00",
+  "temperatura_c":35.54,
+  "voltaje_v":5.034,
+  "corriente_ma":144.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:20:00",
+  "temperatura_c":41.55,
+  "voltaje_v":5.142,
+  "corriente_ma":62.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:21:00",
+  "temperatura_c":26.99,
+  "voltaje_v":4.833,
+  "corriente_ma":113.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:22:00",
+  "temperatura_c":28.74,
+  "voltaje_v":4.824,
+  "corriente_ma":116.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:23:00",
+  "temperatura_c":26.99,
+  "voltaje_v":4.836,
+  "corriente_ma":85.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:24:00",
+  "temperatura_c":999.0,
+  "voltaje_v":5.043,
+  "corriente_ma":121.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:25:00",
+  "temperatura_c":37.2,
+  "voltaje_v":5.187,
+  "corriente_ma":145.0,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:26:00",
+  "temperatura_c":37.62,
+  "voltaje_v":4.935,
+  "corriente_ma":98.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:27:00",
+  "temperatura_c":36.38,
+  "voltaje_v":4.625,
+  "corriente_ma":126.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:28:00",
+  "temperatura_c":27.94,
+  "voltaje_v":4.744,
+  "corriente_ma":101.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:29:00",
+  "temperatura_c":23.45,
+  "voltaje_v":4.875,
+  "corriente_ma":106.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:30:00",
+  "temperatura_c":35.27,
+  "voltaje_v":4.916,
+  "corriente_ma":149.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:31:00",
+  "temperatura_c":32.64,
+  "voltaje_v":4.939,
+  "corriente_ma":109.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:32:00",
+  "temperatura_c":37.3,
+  "voltaje_v":5.006,
+  "corriente_ma":129.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:33:00",
+  "temperatura_c":38.51,
+  "voltaje_v":4.953,
+  "corriente_ma":82.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:34:00",
+  "temperatura_c":35.69,
+  "voltaje_v":5.157,
+  "corriente_ma":157.2,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:35:00",
+  "temperatura_c":38.8,
+  "voltaje_v":4.899,
+  "corriente_ma":132.1,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:36:00",
+  "temperatura_c":36.15,
+  "voltaje_v":4.871,
+  "corriente_ma":116.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:37:00",
+  "temperatura_c":37.65,
+  "voltaje_v":5.072,
+  "corriente_ma":131.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:38:00",
+  "temperatura_c":31.48,
+  "voltaje_v":4.77,
+  "corriente_ma":91.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:39:00",
+  "temperatura_c":34.1,
+  "voltaje_v":5.058,
+  "corriente_ma":143.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:40:00",
+  "temperatura_c":35.98,
+  "voltaje_v":5.015,
+  "corriente_ma":113.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:41:00",
+  "temperatura_c":39.1,
+  "voltaje_v":4.978,
+  "corriente_ma":115.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:42:00",
+  "temperatura_c":33.03,
+  "voltaje_v":5.238,
+  "corriente_ma":110.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:43:00",
+  "temperatura_c":37.61,
+  "voltaje_v":4.907,
+  "corriente_ma":108.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:44:00",
+  "temperatura_c":33.67,
+  "voltaje_v":5.309,
+  "corriente_ma":133.9,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:45:00",
+  "temperatura_c":34.41,
+  "voltaje_v":4.966,
+  "corriente_ma":125.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:46:00",
+  "temperatura_c":39.15,
+  "voltaje_v":"N\/A",
+  "corriente_ma":133.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:47:00",
+  "temperatura_c":25.03,
+  "voltaje_v":5.01,
+  "corriente_ma":119.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:48:00",
+  "temperatura_c":28.52,
+  "voltaje_v":4.839,
+  "corriente_ma":130.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:49:00",
+  "temperatura_c":27.59,
+  "voltaje_v":4.887,
+  "corriente_ma":111.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:50:00",
+  "temperatura_c":23.33,
+  "voltaje_v":5.06,
+  "corriente_ma":164.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:51:00",
+  "temperatura_c":31.61,
+  "voltaje_v":5.083,
+  "corriente_ma":88.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:52:00",
+  "temperatura_c":999.0,
+  "voltaje_v":4.907,
+  "corriente_ma":145.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:53:00",
+  "temperatura_c":33.58,
+  "voltaje_v":5.148,
+  "corriente_ma":147.4,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:54:00",
+  "temperatura_c":35.99,
+  "voltaje_v":5.174,
+  "corriente_ma":103.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 02:55:00",
+  "temperatura_c":40.45,
+  "voltaje_v":5.215,
+  "corriente_ma":164.6,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:56:00",
+  "temperatura_c":41.64,
+  "voltaje_v":5.079,
+  "corriente_ma":139.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 02:57:00",
+  "temperatura_c":34.65,
+  "voltaje_v":5.205,
+  "corriente_ma":139.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:58:00",
+  "temperatura_c":41.77,
+  "voltaje_v":4.718,
+  "corriente_ma":120.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:59:00",
+  "temperatura_c":35.46,
+  "voltaje_v":4.952,
+  "corriente_ma":115.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:00:00",
+  "temperatura_c":30.81,
+  "voltaje_v":4.87,
+  "corriente_ma":115.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:01:00",
+  "temperatura_c":32.03,
+  "voltaje_v":"5,018",
+  "corriente_ma":127.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:02:00",
+  "temperatura_c":27.6,
+  "voltaje_v":4.914,
+  "corriente_ma":148.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:03:00",
+  "temperatura_c":30.56,
+  "voltaje_v":4.975,
+  "corriente_ma":123.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:04:00",
+  "temperatura_c":33.21,
+  "voltaje_v":5.282,
+  "corriente_ma":101.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:05:00",
+  "temperatura_c":39.02,
+  "voltaje_v":4.975,
+  "corriente_ma":136.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:06:00",
+  "temperatura_c":43.6,
+  "voltaje_v":5.062,
+  "corriente_ma":138.4,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:07:00",
+  "temperatura_c":28.09,
+  "voltaje_v":4.965,
+  "corriente_ma":133.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:08:00",
+  "temperatura_c":36.96,
+  "voltaje_v":5.011,
+  "corriente_ma":134.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:09:00",
+  "temperatura_c":29.8,
+  "voltaje_v":5.001,
+  "corriente_ma":114.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:10:00",
+  "temperatura_c":37.37,
+  "voltaje_v":5.067,
+  "corriente_ma":101.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:11:00",
+  "temperatura_c":34.34,
+  "voltaje_v":5.175,
+  "corriente_ma":102.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:12:00",
+  "temperatura_c":25.85,
+  "voltaje_v":5.247,
+  "corriente_ma":87.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:13:00",
+  "temperatura_c":39.64,
+  "voltaje_v":5.046,
+  "corriente_ma":124.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:14:00",
+  "temperatura_c":31.97,
+  "voltaje_v":5.088,
+  "corriente_ma":118.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:15:00",
+  "temperatura_c":32.33,
+  "voltaje_v":4.827,
+  "corriente_ma":111.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:16:00",
+  "temperatura_c":29.65,
+  "voltaje_v":4.987,
+  "corriente_ma":60.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:17:00",
+  "temperatura_c":31.73,
+  "voltaje_v":5.141,
+  "corriente_ma":95.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:18:00",
+  "temperatura_c":37.14,
+  "voltaje_v":5.13,
+  "corriente_ma":142.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:19:00",
+  "temperatura_c":34.05,
+  "voltaje_v":5.032,
+  "corriente_ma":106.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:20:00",
+  "temperatura_c":36.64,
+  "voltaje_v":5.133,
+  "corriente_ma":127.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:21:00",
+  "temperatura_c":36.81,
+  "voltaje_v":5.074,
+  "corriente_ma":92.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:22:00",
+  "temperatura_c":41.6,
+  "voltaje_v":5.18,
+  "corriente_ma":148.8,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:23:00",
+  "temperatura_c":33.29,
+  "voltaje_v":5.043,
+  "corriente_ma":117.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:24:00",
+  "temperatura_c":27.62,
+  "voltaje_v":4.947,
+  "corriente_ma":125.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:25:00",
+  "temperatura_c":40.34,
+  "voltaje_v":5.05,
+  "corriente_ma":166.5,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:26:00",
+  "temperatura_c":33.34,
+  "voltaje_v":4.56,
+  "corriente_ma":150.3,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:27:00",
+  "temperatura_c":40.57,
+  "voltaje_v":5.057,
+  "corriente_ma":113.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:28:00",
+  "temperatura_c":36.92,
+  "voltaje_v":4.453,
+  "corriente_ma":108.1,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:29:00",
+  "temperatura_c":34.34,
+  "voltaje_v":4.741,
+  "corriente_ma":113.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:30:00",
+  "temperatura_c":36.74,
+  "voltaje_v":5.068,
+  "corriente_ma":130.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:31:00",
+  "temperatura_c":44.76,
+  "voltaje_v":5.072,
+  "corriente_ma":117.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:32:00",
+  "temperatura_c":45.38,
+  "voltaje_v":4.826,
+  "corriente_ma":112.1,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:33:00",
+  "temperatura_c":35.35,
+  "voltaje_v":"4,893",
+  "corriente_ma":149.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:34:00",
+  "temperatura_c":35.8,
+  "voltaje_v":5.206,
+  "corriente_ma":117.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:35:00",
+  "temperatura_c":40.38,
+  "voltaje_v":4.927,
+  "corriente_ma":166.0,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:36:00",
+  "temperatura_c":30.77,
+  "voltaje_v":5.336,
+  "corriente_ma":121.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:37:00",
+  "temperatura_c":36.67,
+  "voltaje_v":5.0,
+  "corriente_ma":155.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:38:00",
+  "temperatura_c":34.87,
+  "voltaje_v":5.061,
+  "corriente_ma":127.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:39:00",
+  "temperatura_c":null,
+  "voltaje_v":5.243,
+  "corriente_ma":139.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:40:00",
+  "temperatura_c":30.83,
+  "voltaje_v":5.02,
+  "corriente_ma":105.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:41:00",
+  "temperatura_c":27.05,
+  "voltaje_v":4.85,
+  "corriente_ma":102.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:42:00",
+  "temperatura_c":24.64,
+  "voltaje_v":4.984,
+  "corriente_ma":129.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:43:00",
+  "temperatura_c":29.41,
+  "voltaje_v":4.995,
+  "corriente_ma":139.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:44:00",
+  "temperatura_c":32.71,
+  "voltaje_v":4.795,
+  "corriente_ma":120.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:45:00",
+  "temperatura_c":999.0,
+  "voltaje_v":4.962,
+  "corriente_ma":94.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:46:00",
+  "temperatura_c":44.69,
+  "voltaje_v":4.889,
+  "corriente_ma":92.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:47:00",
+  "temperatura_c":40.53,
+  "voltaje_v":5.139,
+  "corriente_ma":91.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:48:00",
+  "temperatura_c":30.19,
+  "voltaje_v":5.005,
+  "corriente_ma":84.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:49:00",
+  "temperatura_c":36.74,
+  "voltaje_v":4.958,
+  "corriente_ma":122.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:50:00",
+  "temperatura_c":32.96,
+  "voltaje_v":4.984,
+  "corriente_ma":142.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:51:00",
+  "temperatura_c":33.58,
+  "voltaje_v":5.033,
+  "corriente_ma":119.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 03:52:00",
+  "temperatura_c":35.93,
+  "voltaje_v":5.093,
+  "corriente_ma":74.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 03:53:00",
+  "temperatura_c":38.1,
+  "voltaje_v":4.85,
+  "corriente_ma":116.2,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:54:00",
+  "temperatura_c":33.3,
+  "voltaje_v":4.844,
+  "corriente_ma":116.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:55:00",
+  "temperatura_c":40.32,
+  "voltaje_v":5.166,
+  "corriente_ma":161.9,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:56:00",
+  "temperatura_c":29.29,
+  "voltaje_v":4.938,
+  "corriente_ma":90.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:57:00",
+  "temperatura_c":35.03,
+  "voltaje_v":4.787,
+  "corriente_ma":112.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 03:58:00",
+  "temperatura_c":47.99,
+  "voltaje_v":5.067,
+  "corriente_ma":154.1,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 03:59:00",
+  "temperatura_c":36.12,
+  "voltaje_v":5.07,
+  "corriente_ma":129.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:00:00",
+  "temperatura_c":42.17,
+  "voltaje_v":4.77,
+  "corriente_ma":131.3,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:01:00",
+  "temperatura_c":35.46,
+  "voltaje_v":5.034,
+  "corriente_ma":122.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:02:00",
+  "temperatura_c":37.9,
+  "voltaje_v":5.11,
+  "corriente_ma":126.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:03:00",
+  "temperatura_c":34.72,
+  "voltaje_v":5.056,
+  "corriente_ma":135.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:04:00",
+  "temperatura_c":34.15,
+  "voltaje_v":"N\/A",
+  "corriente_ma":103.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:05:00",
+  "temperatura_c":31.1,
+  "voltaje_v":4.789,
+  "corriente_ma":137.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:06:00",
+  "temperatura_c":37.15,
+  "voltaje_v":5.05,
+  "corriente_ma":92.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:07:00",
+  "temperatura_c":30.74,
+  "voltaje_v":4.955,
+  "corriente_ma":126.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:08:00",
+  "temperatura_c":38.33,
+  "voltaje_v":4.928,
+  "corriente_ma":123.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:09:00",
+  "temperatura_c":40.43,
+  "voltaje_v":5.131,
+  "corriente_ma":107.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:10:00",
+  "temperatura_c":36.83,
+  "voltaje_v":5.222,
+  "corriente_ma":119.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:11:00",
+  "temperatura_c":33.57,
+  "voltaje_v":5.269,
+  "corriente_ma":107.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:12:00",
+  "temperatura_c":37.27,
+  "voltaje_v":"N\/A",
+  "corriente_ma":98.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:13:00",
+  "temperatura_c":33.46,
+  "voltaje_v":4.984,
+  "corriente_ma":112.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:14:00",
+  "temperatura_c":null,
+  "voltaje_v":5.053,
+  "corriente_ma":97.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:15:00",
+  "temperatura_c":25.84,
+  "voltaje_v":"5,115",
+  "corriente_ma":126.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:16:00",
+  "temperatura_c":33.32,
+  "voltaje_v":5.018,
+  "corriente_ma":97.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:17:00",
+  "temperatura_c":25.05,
+  "voltaje_v":5.02,
+  "corriente_ma":134.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:18:00",
+  "temperatura_c":27.52,
+  "voltaje_v":5.124,
+  "corriente_ma":96.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:19:00",
+  "temperatura_c":41.82,
+  "voltaje_v":4.991,
+  "corriente_ma":108.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:20:00",
+  "temperatura_c":39.48,
+  "voltaje_v":4.891,
+  "corriente_ma":107.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:21:00",
+  "temperatura_c":999.0,
+  "voltaje_v":4.938,
+  "corriente_ma":146.5,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:22:00",
+  "temperatura_c":27.49,
+  "voltaje_v":5.095,
+  "corriente_ma":126.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:23:00",
+  "temperatura_c":20.18,
+  "voltaje_v":5.0,
+  "corriente_ma":115.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:24:00",
+  "temperatura_c":32.28,
+  "voltaje_v":5.051,
+  "corriente_ma":130.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:25:00",
+  "temperatura_c":47.1,
+  "voltaje_v":5.101,
+  "corriente_ma":77.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:26:00",
+  "temperatura_c":37.17,
+  "voltaje_v":4.944,
+  "corriente_ma":119.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:27:00",
+  "temperatura_c":32.2,
+  "voltaje_v":5.113,
+  "corriente_ma":160.0,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:28:00",
+  "temperatura_c":37.33,
+  "voltaje_v":5.057,
+  "corriente_ma":122.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:29:00",
+  "temperatura_c":27.2,
+  "voltaje_v":4.815,
+  "corriente_ma":121.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:30:00",
+  "temperatura_c":33.51,
+  "voltaje_v":5.216,
+  "corriente_ma":131.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:31:00",
+  "temperatura_c":35.5,
+  "voltaje_v":"N\/A",
+  "corriente_ma":137.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:32:00",
+  "temperatura_c":34.57,
+  "voltaje_v":4.752,
+  "corriente_ma":80.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:33:00",
+  "temperatura_c":38.95,
+  "voltaje_v":4.843,
+  "corriente_ma":86.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:34:00",
+  "temperatura_c":36.72,
+  "voltaje_v":4.847,
+  "corriente_ma":124.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:35:00",
+  "temperatura_c":38.34,
+  "voltaje_v":5.008,
+  "corriente_ma":105.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:36:00",
+  "temperatura_c":31.56,
+  "voltaje_v":4.959,
+  "corriente_ma":146.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:37:00",
+  "temperatura_c":39.49,
+  "voltaje_v":4.949,
+  "corriente_ma":113.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:38:00",
+  "temperatura_c":43.14,
+  "voltaje_v":5.093,
+  "corriente_ma":81.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:39:00",
+  "temperatura_c":30.15,
+  "voltaje_v":5.051,
+  "corriente_ma":94.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:40:00",
+  "temperatura_c":30.56,
+  "voltaje_v":"5,047",
+  "corriente_ma":65.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:41:00",
+  "temperatura_c":41.68,
+  "voltaje_v":5.061,
+  "corriente_ma":115.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:42:00",
+  "temperatura_c":34.04,
+  "voltaje_v":5.092,
+  "corriente_ma":116.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:43:00",
+  "temperatura_c":42.02,
+  "voltaje_v":4.684,
+  "corriente_ma":111.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:44:00",
+  "temperatura_c":32.79,
+  "voltaje_v":4.945,
+  "corriente_ma":141.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:45:00",
+  "temperatura_c":42.28,
+  "voltaje_v":4.673,
+  "corriente_ma":144.0,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:46:00",
+  "temperatura_c":35.66,
+  "voltaje_v":5.005,
+  "corriente_ma":116.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:47:00",
+  "temperatura_c":36.29,
+  "voltaje_v":4.999,
+  "corriente_ma":77.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:48:00",
+  "temperatura_c":42.82,
+  "voltaje_v":5.157,
+  "corriente_ma":132.3,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:49:00",
+  "temperatura_c":33.19,
+  "voltaje_v":5.178,
+  "corriente_ma":131.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:50:00",
+  "temperatura_c":30.29,
+  "voltaje_v":5.03,
+  "corriente_ma":126.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:51:00",
+  "temperatura_c":32.76,
+  "voltaje_v":4.925,
+  "corriente_ma":139.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:52:00",
+  "temperatura_c":37.26,
+  "voltaje_v":5.073,
+  "corriente_ma":96.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:53:00",
+  "temperatura_c":27.17,
+  "voltaje_v":4.921,
+  "corriente_ma":160.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:54:00",
+  "temperatura_c":38.19,
+  "voltaje_v":5.0,
+  "corriente_ma":100.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 04:55:00",
+  "temperatura_c":32.31,
+  "voltaje_v":5.148,
+  "corriente_ma":135.0,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 04:56:00",
+  "temperatura_c":40.74,
+  "voltaje_v":4.916,
+  "corriente_ma":86.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:57:00",
+  "temperatura_c":23.03,
+  "voltaje_v":"5,121",
+  "corriente_ma":101.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 04:58:00",
+  "temperatura_c":31.07,
+  "voltaje_v":5.102,
+  "corriente_ma":150.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 04:59:00",
+  "temperatura_c":26.57,
+  "voltaje_v":4.857,
+  "corriente_ma":114.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:00:00",
+  "temperatura_c":30.87,
+  "voltaje_v":5.146,
+  "corriente_ma":136.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:01:00",
+  "temperatura_c":36.24,
+  "voltaje_v":5.105,
+  "corriente_ma":124.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:02:00",
+  "temperatura_c":999.0,
+  "voltaje_v":5.015,
+  "corriente_ma":117.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:03:00",
+  "temperatura_c":33.73,
+  "voltaje_v":4.886,
+  "corriente_ma":147.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:04:00",
+  "temperatura_c":34.2,
+  "voltaje_v":"4,871",
+  "corriente_ma":115.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:05:00",
+  "temperatura_c":36.02,
+  "voltaje_v":4.919,
+  "corriente_ma":84.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:06:00",
+  "temperatura_c":29.96,
+  "voltaje_v":5.081,
+  "corriente_ma":103.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:07:00",
+  "temperatura_c":38.53,
+  "voltaje_v":4.857,
+  "corriente_ma":131.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:08:00",
+  "temperatura_c":38.31,
+  "voltaje_v":5.066,
+  "corriente_ma":127.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:09:00",
+  "temperatura_c":36.93,
+  "voltaje_v":4.814,
+  "corriente_ma":88.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:10:00",
+  "temperatura_c":37.78,
+  "voltaje_v":4.969,
+  "corriente_ma":105.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:11:00",
+  "temperatura_c":36.48,
+  "voltaje_v":5.016,
+  "corriente_ma":108.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:12:00",
+  "temperatura_c":45.18,
+  "voltaje_v":5.367,
+  "corriente_ma":112.7,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:13:00",
+  "temperatura_c":34.56,
+  "voltaje_v":4.793,
+  "corriente_ma":92.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:14:00",
+  "temperatura_c":33.46,
+  "voltaje_v":5.221,
+  "corriente_ma":107.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:15:00",
+  "temperatura_c":31.23,
+  "voltaje_v":5.022,
+  "corriente_ma":105.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:16:00",
+  "temperatura_c":29.84,
+  "voltaje_v":5.062,
+  "corriente_ma":135.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:17:00",
+  "temperatura_c":28.78,
+  "voltaje_v":5.018,
+  "corriente_ma":136.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:18:00",
+  "temperatura_c":30.56,
+  "voltaje_v":5.067,
+  "corriente_ma":117.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:19:00",
+  "temperatura_c":34.65,
+  "voltaje_v":4.977,
+  "corriente_ma":112.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:20:00",
+  "temperatura_c":36.67,
+  "voltaje_v":"5,218",
+  "corriente_ma":122.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:21:00",
+  "temperatura_c":35.26,
+  "voltaje_v":"N\/A",
+  "corriente_ma":103.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:22:00",
+  "temperatura_c":31.17,
+  "voltaje_v":5.17,
+  "corriente_ma":97.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:23:00",
+  "temperatura_c":39.5,
+  "voltaje_v":4.903,
+  "corriente_ma":101.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:24:00",
+  "temperatura_c":38.7,
+  "voltaje_v":4.991,
+  "corriente_ma":107.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:25:00",
+  "temperatura_c":34.2,
+  "voltaje_v":4.839,
+  "corriente_ma":96.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:26:00",
+  "temperatura_c":31.74,
+  "voltaje_v":5.068,
+  "corriente_ma":123.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:27:00",
+  "temperatura_c":37.74,
+  "voltaje_v":5.217,
+  "corriente_ma":134.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:28:00",
+  "temperatura_c":35.94,
+  "voltaje_v":4.988,
+  "corriente_ma":88.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:29:00",
+  "temperatura_c":27.76,
+  "voltaje_v":4.97,
+  "corriente_ma":120.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:30:00",
+  "temperatura_c":34.66,
+  "voltaje_v":4.833,
+  "corriente_ma":115.6,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:31:00",
+  "temperatura_c":36.31,
+  "voltaje_v":4.966,
+  "corriente_ma":126.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:32:00",
+  "temperatura_c":999.0,
+  "voltaje_v":4.761,
+  "corriente_ma":119.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:33:00",
+  "temperatura_c":null,
+  "voltaje_v":4.863,
+  "corriente_ma":90.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:34:00",
+  "temperatura_c":27.73,
+  "voltaje_v":5.034,
+  "corriente_ma":94.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:35:00",
+  "temperatura_c":41.68,
+  "voltaje_v":5.198,
+  "corriente_ma":120.6,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:36:00",
+  "temperatura_c":41.24,
+  "voltaje_v":5.421,
+  "corriente_ma":140.6,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:37:00",
+  "temperatura_c":33.74,
+  "voltaje_v":"N\/A",
+  "corriente_ma":75.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:38:00",
+  "temperatura_c":36.82,
+  "voltaje_v":5.215,
+  "corriente_ma":126.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:39:00",
+  "temperatura_c":22.95,
+  "voltaje_v":5.037,
+  "corriente_ma":143.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:40:00",
+  "temperatura_c":29.22,
+  "voltaje_v":4.977,
+  "corriente_ma":116.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:41:00",
+  "temperatura_c":33.53,
+  "voltaje_v":5.065,
+  "corriente_ma":131.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:42:00",
+  "temperatura_c":29.64,
+  "voltaje_v":5.009,
+  "corriente_ma":105.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:43:00",
+  "temperatura_c":38.57,
+  "voltaje_v":5.017,
+  "corriente_ma":117.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:44:00",
+  "temperatura_c":44.99,
+  "voltaje_v":4.939,
+  "corriente_ma":87.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:45:00",
+  "temperatura_c":29.12,
+  "voltaje_v":4.79,
+  "corriente_ma":73.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:46:00",
+  "temperatura_c":30.81,
+  "voltaje_v":4.768,
+  "corriente_ma":138.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:47:00",
+  "temperatura_c":36.18,
+  "voltaje_v":5.098,
+  "corriente_ma":100.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:48:00",
+  "temperatura_c":43.06,
+  "voltaje_v":4.958,
+  "corriente_ma":110.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:49:00",
+  "temperatura_c":28.89,
+  "voltaje_v":4.911,
+  "corriente_ma":92.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:50:00",
+  "temperatura_c":36.25,
+  "voltaje_v":5.001,
+  "corriente_ma":91.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:51:00",
+  "temperatura_c":44.11,
+  "voltaje_v":5.119,
+  "corriente_ma":116.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:52:00",
+  "temperatura_c":null,
+  "voltaje_v":5.027,
+  "corriente_ma":105.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 05:53:00",
+  "temperatura_c":28.59,
+  "voltaje_v":"N\/A",
+  "corriente_ma":127.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:54:00",
+  "temperatura_c":32.88,
+  "voltaje_v":5.184,
+  "corriente_ma":129.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:55:00",
+  "temperatura_c":32.4,
+  "voltaje_v":5.237,
+  "corriente_ma":126.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:56:00",
+  "temperatura_c":39.06,
+  "voltaje_v":5.074,
+  "corriente_ma":124.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 05:57:00",
+  "temperatura_c":36.21,
+  "voltaje_v":5.146,
+  "corriente_ma":151.6,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 05:58:00",
+  "temperatura_c":26.13,
+  "voltaje_v":5.186,
+  "corriente_ma":98.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 05:59:00",
+  "temperatura_c":37.58,
+  "voltaje_v":5.17,
+  "corriente_ma":118.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:00:00",
+  "temperatura_c":32.11,
+  "voltaje_v":5.092,
+  "corriente_ma":142.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:01:00",
+  "temperatura_c":41.37,
+  "voltaje_v":5.09,
+  "corriente_ma":145.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:02:00",
+  "temperatura_c":31.86,
+  "voltaje_v":5.078,
+  "corriente_ma":91.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:03:00",
+  "temperatura_c":31.82,
+  "voltaje_v":4.835,
+  "corriente_ma":113.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:04:00",
+  "temperatura_c":37.71,
+  "voltaje_v":5.105,
+  "corriente_ma":147.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:05:00",
+  "temperatura_c":38.81,
+  "voltaje_v":4.797,
+  "corriente_ma":130.2,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:06:00",
+  "temperatura_c":37.24,
+  "voltaje_v":4.881,
+  "corriente_ma":123.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:07:00",
+  "temperatura_c":26.57,
+  "voltaje_v":5.196,
+  "corriente_ma":115.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:08:00",
+  "temperatura_c":37.69,
+  "voltaje_v":5.126,
+  "corriente_ma":112.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:09:00",
+  "temperatura_c":999.0,
+  "voltaje_v":5.223,
+  "corriente_ma":125.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:10:00",
+  "temperatura_c":36.18,
+  "voltaje_v":4.959,
+  "corriente_ma":115.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:11:00",
+  "temperatura_c":27.88,
+  "voltaje_v":4.827,
+  "corriente_ma":119.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:12:00",
+  "temperatura_c":37.23,
+  "voltaje_v":4.964,
+  "corriente_ma":121.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:13:00",
+  "temperatura_c":30.97,
+  "voltaje_v":5.015,
+  "corriente_ma":106.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:14:00",
+  "temperatura_c":28.59,
+  "voltaje_v":5.012,
+  "corriente_ma":130.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:15:00",
+  "temperatura_c":38.57,
+  "voltaje_v":5.17,
+  "corriente_ma":178.3,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:16:00",
+  "temperatura_c":36.21,
+  "voltaje_v":4.946,
+  "corriente_ma":84.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:17:00",
+  "temperatura_c":31.93,
+  "voltaje_v":5.053,
+  "corriente_ma":126.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:18:00",
+  "temperatura_c":42.26,
+  "voltaje_v":4.852,
+  "corriente_ma":104.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:19:00",
+  "temperatura_c":null,
+  "voltaje_v":5.068,
+  "corriente_ma":131.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:20:00",
+  "temperatura_c":35.16,
+  "voltaje_v":5.0,
+  "corriente_ma":120.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:21:00",
+  "temperatura_c":36.34,
+  "voltaje_v":4.888,
+  "corriente_ma":135.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:22:00",
+  "temperatura_c":31.9,
+  "voltaje_v":4.965,
+  "corriente_ma":143.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:23:00",
+  "temperatura_c":37.36,
+  "voltaje_v":4.972,
+  "corriente_ma":123.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:24:00",
+  "temperatura_c":32.33,
+  "voltaje_v":4.959,
+  "corriente_ma":142.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:25:00",
+  "temperatura_c":32.94,
+  "voltaje_v":5.266,
+  "corriente_ma":73.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:26:00",
+  "temperatura_c":41.81,
+  "voltaje_v":4.985,
+  "corriente_ma":151.8,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:27:00",
+  "temperatura_c":29.8,
+  "voltaje_v":4.963,
+  "corriente_ma":127.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:28:00",
+  "temperatura_c":22.94,
+  "voltaje_v":"N\/A",
+  "corriente_ma":141.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:29:00",
+  "temperatura_c":43.05,
+  "voltaje_v":4.866,
+  "corriente_ma":95.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:30:00",
+  "temperatura_c":47.75,
+  "voltaje_v":4.961,
+  "corriente_ma":103.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:31:00",
+  "temperatura_c":32.97,
+  "voltaje_v":4.897,
+  "corriente_ma":122.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:32:00",
+  "temperatura_c":25.32,
+  "voltaje_v":5.207,
+  "corriente_ma":119.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:33:00",
+  "temperatura_c":33.45,
+  "voltaje_v":4.975,
+  "corriente_ma":125.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:34:00",
+  "temperatura_c":33.57,
+  "voltaje_v":5.193,
+  "corriente_ma":141.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:35:00",
+  "temperatura_c":34.05,
+  "voltaje_v":5.009,
+  "corriente_ma":84.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:36:00",
+  "temperatura_c":null,
+  "voltaje_v":5.006,
+  "corriente_ma":139.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:37:00",
+  "temperatura_c":37.9,
+  "voltaje_v":4.987,
+  "corriente_ma":120.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:38:00",
+  "temperatura_c":37.62,
+  "voltaje_v":5.001,
+  "corriente_ma":115.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:39:00",
+  "temperatura_c":27.53,
+  "voltaje_v":5.258,
+  "corriente_ma":90.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:40:00",
+  "temperatura_c":38.5,
+  "voltaje_v":4.652,
+  "corriente_ma":130.1,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:41:00",
+  "temperatura_c":45.26,
+  "voltaje_v":4.7,
+  "corriente_ma":71.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:42:00",
+  "temperatura_c":35.86,
+  "voltaje_v":4.919,
+  "corriente_ma":133.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:43:00",
+  "temperatura_c":33.31,
+  "voltaje_v":5.002,
+  "corriente_ma":90.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:44:00",
+  "temperatura_c":34.29,
+  "voltaje_v":5.104,
+  "corriente_ma":121.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:45:00",
+  "temperatura_c":38.08,
+  "voltaje_v":5.071,
+  "corriente_ma":117.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:46:00",
+  "temperatura_c":26.35,
+  "voltaje_v":4.942,
+  "corriente_ma":143.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:47:00",
+  "temperatura_c":35.82,
+  "voltaje_v":5.153,
+  "corriente_ma":116.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:48:00",
+  "temperatura_c":999.0,
+  "voltaje_v":5.155,
+  "corriente_ma":106.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:49:00",
+  "temperatura_c":44.24,
+  "voltaje_v":5.028,
+  "corriente_ma":109.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:50:00",
+  "temperatura_c":34.13,
+  "voltaje_v":5.144,
+  "corriente_ma":145.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:51:00",
+  "temperatura_c":43.34,
+  "voltaje_v":5.041,
+  "corriente_ma":130.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:52:00",
+  "temperatura_c":29.48,
+  "voltaje_v":4.916,
+  "corriente_ma":112.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:53:00",
+  "temperatura_c":37.94,
+  "voltaje_v":5.105,
+  "corriente_ma":115.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:54:00",
+  "temperatura_c":null,
+  "voltaje_v":5.017,
+  "corriente_ma":88.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:55:00",
+  "temperatura_c":30.65,
+  "voltaje_v":5.0,
+  "corriente_ma":127.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:56:00",
+  "temperatura_c":35.89,
+  "voltaje_v":5.221,
+  "corriente_ma":84.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 06:57:00",
+  "temperatura_c":41.06,
+  "voltaje_v":4.632,
+  "corriente_ma":135.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 06:58:00",
+  "temperatura_c":33.38,
+  "voltaje_v":4.787,
+  "corriente_ma":122.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:59:00",
+  "temperatura_c":26.54,
+  "voltaje_v":4.822,
+  "corriente_ma":167.7,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:00:00",
+  "temperatura_c":34.91,
+  "voltaje_v":4.946,
+  "corriente_ma":98.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:01:00",
+  "temperatura_c":30.49,
+  "voltaje_v":4.962,
+  "corriente_ma":117.9,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:02:00",
+  "temperatura_c":33.29,
+  "voltaje_v":4.774,
+  "corriente_ma":156.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:03:00",
+  "temperatura_c":34.59,
+  "voltaje_v":4.852,
+  "corriente_ma":143.8,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:04:00",
+  "temperatura_c":26.47,
+  "voltaje_v":4.871,
+  "corriente_ma":106.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:05:00",
+  "temperatura_c":26.92,
+  "voltaje_v":5.369,
+  "corriente_ma":124.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:06:00",
+  "temperatura_c":37.41,
+  "voltaje_v":5.27,
+  "corriente_ma":120.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:07:00",
+  "temperatura_c":32.39,
+  "voltaje_v":4.938,
+  "corriente_ma":125.6,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:08:00",
+  "temperatura_c":22.18,
+  "voltaje_v":4.945,
+  "corriente_ma":106.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:09:00",
+  "temperatura_c":38.92,
+  "voltaje_v":4.828,
+  "corriente_ma":118.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:10:00",
+  "temperatura_c":36.36,
+  "voltaje_v":4.714,
+  "corriente_ma":88.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:11:00",
+  "temperatura_c":31.43,
+  "voltaje_v":4.982,
+  "corriente_ma":122.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:12:00",
+  "temperatura_c":28.42,
+  "voltaje_v":4.85,
+  "corriente_ma":129.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:13:00",
+  "temperatura_c":39.18,
+  "voltaje_v":4.987,
+  "corriente_ma":115.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:14:00",
+  "temperatura_c":36.75,
+  "voltaje_v":4.76,
+  "corriente_ma":87.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:15:00",
+  "temperatura_c":46.91,
+  "voltaje_v":4.886,
+  "corriente_ma":139.8,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:16:00",
+  "temperatura_c":37.1,
+  "voltaje_v":5.022,
+  "corriente_ma":127.3,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:17:00",
+  "temperatura_c":36.94,
+  "voltaje_v":5.055,
+  "corriente_ma":105.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:18:00",
+  "temperatura_c":34.17,
+  "voltaje_v":5.063,
+  "corriente_ma":114.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:19:00",
+  "temperatura_c":39.08,
+  "voltaje_v":"4,802",
+  "corriente_ma":90.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:20:00",
+  "temperatura_c":38.13,
+  "voltaje_v":5.128,
+  "corriente_ma":99.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:21:00",
+  "temperatura_c":41.26,
+  "voltaje_v":4.88,
+  "corriente_ma":109.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:22:00",
+  "temperatura_c":32.39,
+  "voltaje_v":5.095,
+  "corriente_ma":144.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:23:00",
+  "temperatura_c":32.82,
+  "voltaje_v":4.998,
+  "corriente_ma":107.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:24:00",
+  "temperatura_c":32.6,
+  "voltaje_v":4.794,
+  "corriente_ma":132.8,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:25:00",
+  "temperatura_c":38.95,
+  "voltaje_v":4.953,
+  "corriente_ma":109.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:26:00",
+  "temperatura_c":42.49,
+  "voltaje_v":5.055,
+  "corriente_ma":125.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:27:00",
+  "temperatura_c":32.71,
+  "voltaje_v":5.092,
+  "corriente_ma":117.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:28:00",
+  "temperatura_c":32.88,
+  "voltaje_v":4.979,
+  "corriente_ma":137.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:29:00",
+  "temperatura_c":36.57,
+  "voltaje_v":5.23,
+  "corriente_ma":109.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:30:00",
+  "temperatura_c":33.77,
+  "voltaje_v":5.151,
+  "corriente_ma":88.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:31:00",
+  "temperatura_c":39.76,
+  "voltaje_v":4.962,
+  "corriente_ma":92.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:32:00",
+  "temperatura_c":23.74,
+  "voltaje_v":5.113,
+  "corriente_ma":109.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:33:00",
+  "temperatura_c":30.87,
+  "voltaje_v":5.29,
+  "corriente_ma":95.0,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:34:00",
+  "temperatura_c":31.09,
+  "voltaje_v":5.294,
+  "corriente_ma":128.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:35:00",
+  "temperatura_c":23.4,
+  "voltaje_v":4.816,
+  "corriente_ma":110.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:36:00",
+  "temperatura_c":30.18,
+  "voltaje_v":4.861,
+  "corriente_ma":167.5,
+  "estado":"falla"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:37:00",
+  "temperatura_c":30.42,
+  "voltaje_v":5.223,
+  "corriente_ma":85.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:38:00",
+  "temperatura_c":33.99,
+  "voltaje_v":4.841,
+  "corriente_ma":124.1,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:39:00",
+  "temperatura_c":40.56,
+  "voltaje_v":4.802,
+  "corriente_ma":97.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:40:00",
+  "temperatura_c":33.77,
+  "voltaje_v":4.927,
+  "corriente_ma":110.1,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:41:00",
+  "temperatura_c":29.85,
+  "voltaje_v":5.063,
+  "corriente_ma":122.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:42:00",
+  "temperatura_c":34.72,
+  "voltaje_v":4.985,
+  "corriente_ma":73.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:43:00",
+  "temperatura_c":40.25,
+  "voltaje_v":4.902,
+  "corriente_ma":124.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:44:00",
+  "temperatura_c":30.12,
+  "voltaje_v":4.899,
+  "corriente_ma":158.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:45:00",
+  "temperatura_c":30.45,
+  "voltaje_v":4.893,
+  "corriente_ma":110.9,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:46:00",
+  "temperatura_c":37.79,
+  "voltaje_v":4.868,
+  "corriente_ma":125.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:47:00",
+  "temperatura_c":33.89,
+  "voltaje_v":5.342,
+  "corriente_ma":140.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:48:00",
+  "temperatura_c":38.24,
+  "voltaje_v":5.045,
+  "corriente_ma":116.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:49:00",
+  "temperatura_c":34.93,
+  "voltaje_v":5.133,
+  "corriente_ma":108.4,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:50:00",
+  "temperatura_c":38.51,
+  "voltaje_v":4.927,
+  "corriente_ma":74.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:51:00",
+  "temperatura_c":29.82,
+  "voltaje_v":4.972,
+  "corriente_ma":132.8,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:52:00",
+  "temperatura_c":34.94,
+  "voltaje_v":4.893,
+  "corriente_ma":117.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 07:53:00",
+  "temperatura_c":33.95,
+  "voltaje_v":4.602,
+  "corriente_ma":99.7,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:54:00",
+  "temperatura_c":28.92,
+  "voltaje_v":"4,793",
+  "corriente_ma":122.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:55:00",
+  "temperatura_c":27.18,
+  "voltaje_v":4.728,
+  "corriente_ma":108.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:56:00",
+  "temperatura_c":38.43,
+  "voltaje_v":4.663,
+  "corriente_ma":109.4,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:57:00",
+  "temperatura_c":33.25,
+  "voltaje_v":4.821,
+  "corriente_ma":132.1,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 07:58:00",
+  "temperatura_c":29.89,
+  "voltaje_v":5.199,
+  "corriente_ma":93.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 07:59:00",
+  "temperatura_c":34.52,
+  "voltaje_v":4.993,
+  "corriente_ma":140.9,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:00:00",
+  "temperatura_c":40.64,
+  "voltaje_v":5.194,
+  "corriente_ma":92.0,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:01:00",
+  "temperatura_c":23.6,
+  "voltaje_v":5.062,
+  "corriente_ma":106.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:02:00",
+  "temperatura_c":27.52,
+  "voltaje_v":5.117,
+  "corriente_ma":158.5,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:03:00",
+  "temperatura_c":30.39,
+  "voltaje_v":4.865,
+  "corriente_ma":142.5,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:04:00",
+  "temperatura_c":42.31,
+  "voltaje_v":5.079,
+  "corriente_ma":122.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 08:05:00",
+  "temperatura_c":36.41,
+  "voltaje_v":5.109,
+  "corriente_ma":101.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:06:00",
+  "temperatura_c":38.84,
+  "voltaje_v":4.914,
+  "corriente_ma":109.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 08:07:00",
+  "temperatura_c":29.3,
+  "voltaje_v":5.084,
+  "corriente_ma":121.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:08:00",
+  "temperatura_c":29.4,
+  "voltaje_v":5.085,
+  "corriente_ma":120.8,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 08:09:00",
+  "temperatura_c":37.24,
+  "voltaje_v":4.918,
+  "corriente_ma":118.2,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:10:00",
+  "temperatura_c":35.29,
+  "voltaje_v":4.832,
+  "corriente_ma":119.4,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:11:00",
+  "temperatura_c":37.74,
+  "voltaje_v":4.822,
+  "corriente_ma":115.7,
+  "estado":"FALLA"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:12:00",
+  "temperatura_c":34.06,
+  "voltaje_v":5.013,
+  "corriente_ma":91.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 08:13:00",
+  "temperatura_c":36.39,
+  "voltaje_v":"N\/A",
+  "corriente_ma":109.7,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:14:00",
+  "temperatura_c":35.79,
+  "voltaje_v":4.881,
+  "corriente_ma":138.3,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:15:00",
+  "temperatura_c":38.89,
+  "voltaje_v":5.004,
+  "corriente_ma":92.6,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 08:16:00",
+  "temperatura_c":39.04,
+  "voltaje_v":5.086,
+  "corriente_ma":116.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:17:00",
+  "temperatura_c":26.9,
+  "voltaje_v":5.093,
+  "corriente_ma":103.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 08:18:00",
+  "temperatura_c":23.76,
+  "voltaje_v":5.233,
+  "corriente_ma":122.2,
+  "estado":"ok "
+ },
+ {
+  "id_sensor":"S02",
+  "timestamp":"2026-08-01 08:19:00",
+  "temperatura_c":40.01,
+  "voltaje_v":5.192,
+  "corriente_ma":112.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:01:00",
+  "temperatura_c":41.37,
+  "voltaje_v":5.09,
+  "corriente_ma":145.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:13:00",
+  "temperatura_c":39.14,
+  "voltaje_v":4.906,
+  "corriente_ma":131.3,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 06:14:00",
+  "temperatura_c":28.59,
+  "voltaje_v":5.012,
+  "corriente_ma":130.6,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 02:35:00",
+  "temperatura_c":38.8,
+  "voltaje_v":4.899,
+  "corriente_ma":132.1,
+  "estado":" Falla"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 01:44:00",
+  "temperatura_c":24.68,
+  "voltaje_v":5.055,
+  "corriente_ma":166.2,
+  "estado":"OK"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:34:00",
+  "temperatura_c":33.57,
+  "voltaje_v":5.193,
+  "corriente_ma":141.7,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S03",
+  "timestamp":"2026-08-01 06:17:00",
+  "temperatura_c":31.93,
+  "voltaje_v":5.053,
+  "corriente_ma":126.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 02:04:00",
+  "temperatura_c":42.41,
+  "voltaje_v":5.125,
+  "corriente_ma":127.5,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S01",
+  "timestamp":"2026-08-01 01:08:00",
+  "temperatura_c":43.66,
+  "voltaje_v":5.033,
+  "corriente_ma":113.0,
+  "estado":" Ok"
+ },
+ {
+  "id_sensor":"S04",
+  "timestamp":"2026-08-01 07:30:00",
+  "temperatura_c":33.77,
+  "voltaje_v":5.151,
+  "corriente_ma":88.5,
+  "estado":" Ok"
+ }
+]

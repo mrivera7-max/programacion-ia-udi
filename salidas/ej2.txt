@@ -1,0 +1,21 @@
+16:02:59 | INFO    | telemetria.csv: 510 filas crudas -> 470 filas limpias
+16:02:59 | INFO    | ✓ preparar_datos completado en 0.010 s
+16:02:59 | INFO    | ✓ entrenar completado en 0.005 s
+16:02:59 | INFO    | ✓ evaluar completado en 0.003 s
+   -> Regresión logística: F1 macro = 0.663
+16:03:00 | WARNING | ✓ entrenar completado en 0.299 s (supera umbral)
+16:03:00 | INFO    | ✓ evaluar completado en 0.019 s
+   -> Random Forest (300 árboles): F1 macro = 0.785
+16:03:00 | ERROR   | ✗ entrenar_con_error falló tras 0.002 s -> InvalidParameterError: The 'C' parameter of LogisticRegression must be a float in the range (0.0, inf]. Got -1.0 instead.
+   -> Modelo con error devuelto: None (el proceso no se detuvo)
+
+Resumen del historial de monitoreo:
+           función          fase  duración_s  éxito                                         error
+    preparar_datos         datos      0.0099   True                                              
+          entrenar entrenamiento      0.0048   True                                              
+           evaluar    evaluacion      0.0029   True                                              
+          entrenar entrenamiento      0.2985   True                                              
+           evaluar    evaluacion      0.0187   True                                              
+entrenar_con_error entrenamiento      0.0019  False InvalidParameterError: The 'C' parameter of L
+
+Metadatos preservados por functools.wraps: nombre='entrenar', doc='Ajusta el modelo recibido (función genérica: sirve para cualquier estimador).'

@@ -1,0 +1,14 @@
+Estrategias registradas: ['prioridad_ml', 'prioridad_reglas', 'sentimiento']
+      estrategia                                  mensaje etiqueta  confianza
+prioridad_reglas Falla crítica en la fuente de alimentaci     alta       1.00
+prioridad_reglas    El proyector del aula 101 no enciende    media       1.00
+prioridad_reglas Gracias por el apoyo en la práctica de a     baja       1.00
+     sentimiento Falla crítica en la fuente de alimentaci negativo       1.00
+     sentimiento    El proyector del aula 101 no enciende negativo       1.00
+     sentimiento Gracias por el apoyo en la práctica de a positivo       1.00
+    prioridad_ml Falla crítica en la fuente de alimentaci     alta       0.57
+    prioridad_ml    El proyector del aula 101 no enciende    media       0.48
+    prioridad_ml Gracias por el apoyo en la práctica de a     baja       0.50
+
+Nueva estrategia 'longitud': [('extenso', '10 palabras'), ('breve', '7 palabras'), ('extenso', '9 palabras')]
+Validación de la fábrica: "Estrategia 'inexistente' desconocida. Disponibles: ['longitud', 'prioridad_ml', 'prioridad_reglas', 'sentimiento']"

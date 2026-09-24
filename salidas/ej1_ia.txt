@@ -1,0 +1,4 @@
+datos/telemetria.csv (470, 6) nulos: 0 tipo timestamp: str
+datos/telemetria.json (480, 6) nulos: 10 tipo timestamp: datetime64[us]
+datos/telemetria.txt (470, 6) nulos: 0 tipo timestamp: str
+datos/telemetria.xlsx (470, 6) nulos: 0 tipo timestamp: str

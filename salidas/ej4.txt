@@ -1,0 +1,42 @@
+                                         mensaje prioridad                      evidencias
+URGENTE: el osciloscopio del laboratorio 3 gener      alta                urgente, chispas
+Falla crítica en la fuente de alimentación, huel      alta                critica, quemado
+El servidor de simulación está caído y no respon      alta              caido, no responde
+Por favor revisar el multímetro 12, marca lectur     media             revisar, inestables
+Se requiere actualizar MATLAB en las estaciones      media                      actualizar
+     Gracias por el apoyo en la práctica de ayer      baja                                
+    Recordatorio: reunión de docentes el viernes      baja                                
+El generador de funciones presenta un error inte     media             error, intermitente
+Cortocircuito en la protoboard de la mesa 5, rie      alta cortocircuito, riesgo electrico
+Solicito préstamo de cables banana para el marte      baja                                
+Error al compilar el firmware del microcontrolad     media                           error
+ Pendiente revisar el inventario de resistencias     media                         revisar
+ Sensor de humo activado en la bodega de equipos      alta                            humo
+El software de licencias está lento pero funcion     media                           lento
+Saludo cordial y agradecimiento por la capacitac      baja                                
+Acceso no autorizado detectado en el servidor de      alta            acceso no autorizado
+Solicitud de mantenimiento preventivo para las f     media                   mantenimiento
+Duda sobre el formato del informe de laboratorio      baja                                
+Cable de alimentación pelado en la mesa 2, pelig      alta                 peligro, pelado
+Actualización del sistema operativo programada p      baja                                
+Incendio pequeño controlado en el laboratorio, r      alta          incendio, de inmediato
+La impresora 3D tiene un retraso en la cola de i     media                         retraso
+     Consulta: ¿hay kits de Arduino disponibles?      baja                                
+Pérdida de datos en el servidor de prácticas, ba      alta                perdida de datos
+           El proyector del aula 101 no enciende     media                     no enciende
+       Felicitaciones al semillero por el póster      baja                                
+Revisar la conexión de red del laboratorio de co     media                  revisar, lenta
+Descarga eléctrica leve al tocar el chasis del e      alta              descarga electrica
+Informativo: nuevo horario de monitorías publica      baja                                
+            Advertencia: batería del UPS al 10 %      alta                     bateria 10%
+
+Distribución: {'alta': 11, 'media': 10, 'baja': 9} -> datos/resultados_prioridad.csv
+
+Reglas (IA simbólica), n=30: exactitud = 96.7%
+            pred_alta  pred_media  pred_baja
+real_alta          11           0          0
+real_media          0           9          0
+real_baja           0           1          9
+  Error: 'Pendiente revisar el inventario de resistencias' real=baja pred=media
+
+Modelo scikit-learn (TF-IDF + LogReg, CV 5 pliegues, n=30): exactitud = 56.7%

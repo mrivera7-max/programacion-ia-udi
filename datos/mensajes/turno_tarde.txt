@@ -1,0 +1,10 @@
+Incendio pequeño controlado en el laboratorio, revisar extintores de inmediato
+La impresora 3D tiene un retraso en la cola de impresión
+Consulta: ¿hay kits de Arduino disponibles?
+Pérdida de datos en el servidor de prácticas, backup falló
+El proyector del aula 101 no enciende
+Felicitaciones al semillero por el póster
+Revisar la conexión de red del laboratorio de comunicaciones, está lenta
+Descarga eléctrica leve al tocar el chasis del equipo 7
+Informativo: nuevo horario de monitorías publicado
+Advertencia: batería del UPS al 10 %

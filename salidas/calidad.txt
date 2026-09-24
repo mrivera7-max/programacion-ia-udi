@@ -1,0 +1,7 @@
+$ python -m pytest -q tests
+................. [100%]
+17 passed in 0.40s
+$ ruff check .
+All checks passed!
+$ mypy (módulos del taller)
+Success: no issues found in 9 source files

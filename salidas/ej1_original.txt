@@ -1,0 +1,4 @@
+datos/telemetria.csv (470, 6)
+datos/telemetria.json (470, 6)
+datos/telemetria.txt (470, 6)
+datos/telemetria.xlsx (470, 6)
