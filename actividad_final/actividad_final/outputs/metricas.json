@@ -1,0 +1,96 @@
+{
+  "cv": [
+    {
+      "model": "logistic_regression",
+      "threshold": 0.8,
+      "roc_auc": 0.9223,
+      "pr_auc": 0.4552,
+      "precision": 0.3347,
+      "recall": 0.6199,
+      "f1": 0.4347,
+      "tn": 7395,
+      "fp": 334,
+      "fn": 103,
+      "tp": 168,
+      "expected_cost": 1364.0
+    },
+    {
+      "model": "random_forest",
+      "threshold": 0.34,
+      "roc_auc": 0.9782,
+      "pr_auc": 0.8915,
+      "precision": 0.8712,
+      "recall": 0.8487,
+      "f1": 0.8598,
+      "tn": 7695,
+      "fp": 34,
+      "fn": 41,
+      "tp": 230,
+      "expected_cost": 444.0
+    },
+    {
+      "model": "gradient_boosting",
+      "threshold": 0.12,
+      "roc_auc": 0.9662,
+      "pr_auc": 0.8717,
+      "precision": 0.8255,
+      "recall": 0.8376,
+      "f1": 0.8315,
+      "tn": 7681,
+      "fp": 48,
+      "fn": 44,
+      "tp": 227,
+      "expected_cost": 488.0
+    }
+  ],
+  "test": {
+    "model": "random_forest",
+    "threshold": 0.34,
+    "roc_auc": 0.9834,
+    "pr_auc": 0.8776,
+    "precision": 0.9048,
+    "recall": 0.8382,
+    "f1": 0.8702,
+    "tn": 1926,
+    "fp": 6,
+    "fn": 11,
+    "tp": 57,
+    "expected_cost": 116.0
+  },
+  "ablation": {
+    "con_fisicas": 0.8915,
+    "sin_fisicas": 0.7364
+  },
+  "importance": [
+    {
+      "feature": "torque_nm",
+      "importance": 0.6413092199353226,
+      "std": 0.019589897921116164
+    },
+    {
+      "feature": "rotational_speed_rpm",
+      "importance": 0.5155264832693086,
+      "std": 0.02220727461932794
+    },
+    {
+      "feature": "air_temperature_k",
+      "importance": 0.4449156653480556,
+      "std": 0.05345794965902583
+    },
+    {
+      "feature": "tool_wear_min",
+      "importance": 0.32850173067336635,
+      "std": 0.04140421960800628
+    },
+    {
+      "feature": "process_temperature_k",
+      "importance": 0.21243950663712838,
+      "std": 0.04211089307090335
+    },
+    {
+      "feature": "type",
+      "importance": 0.030498461580679724,
+      "std": 0.015323453632529122
+    }
+  ]
+}
